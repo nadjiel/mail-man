@@ -1,0 +1,21 @@
+{
+  "name": "mail-man",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mail Man is a web page made to learn to use the EmailJS library.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "4.4.1"
+  },
+  "devDependencies": {
+    "vite": "5.4.1"
+  }
+}
